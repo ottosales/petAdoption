@@ -1,5 +1,15 @@
 <template>
     <div>
-        Dogs
+        <b-table striped hover :items="items"></b-table>
     </div>
 </template>
+
+<script>
+    export default {
+        data(){
+            return{
+                x: "testing"
+            }
+        }
+    }
+</script>
