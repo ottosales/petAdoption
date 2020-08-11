@@ -1,4 +1,8 @@
-# pet-adoption
+# Pet Adoption Page
+An "adopt an pet" kind of page using Vue.js. It is meant to be a way to practice and fixate what I was studying lately. It is baset in a tutorial available at https://youtu.be/4deVCNJq3qc.
+
+
+Below are the vue project generated instructions to guide you on how to use the app.
 
 ## Project setup
 ```
