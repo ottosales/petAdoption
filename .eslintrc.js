@@ -14,10 +14,8 @@ module.exports = {
         'keyword-spacing': 'off',
         'space-before-function-paren': 'off',
         'space-before-blocks': 'off',
-        'no-trailing-spaces': 'off',
         'indent': 'off',
         'quotes': 'off',
-        'eol-last': 'off',
         'no-multiple-empty-lines': 'off'
     }
 }
