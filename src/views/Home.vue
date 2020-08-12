@@ -1,5 +1,5 @@
 <template>
-    <div class="home">
+    <div>
         <h1>Adopt a new cute friend</h1>
         <br>
         <h1>Do it now</h1>
